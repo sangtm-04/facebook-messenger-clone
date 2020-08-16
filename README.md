@@ -1,4 +1,4 @@
-## Tiktok clone 
+## Facebook messenger clone 
 Live Demo :point_right: https://facebook-messenger-clone-78690.web.app/
 
 ### How to get started
